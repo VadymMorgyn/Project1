@@ -176,11 +176,10 @@ jQuery(document).ready(function () {
 		},
 	})
 	/*Owl carousel3*/
+	jQuery('.nav_menu').hide();
 	jQuery('.burger_menu').click(function(){
 				
-				jQuery('.nav_menu li').css({
-				"margin": "10px"
-				});
+
 				jQuery('.nav_menu').show(1000);
 				jQuery('.burger_menu').hide();
 				jQuery('.closeX').show(1000);
