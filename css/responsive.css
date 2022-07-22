@@ -409,6 +409,10 @@
 	.header .closeX:hover {
 		text-shadow: 0px 4px 7px rgba(0, 0, 0, 0.438);
 	}
+
+	.nav_menu {
+		display: none;
+	}
 }
 
 @media (max-width: 600px) {

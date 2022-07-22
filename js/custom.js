@@ -176,7 +176,7 @@ jQuery(document).ready(function () {
 		},
 	})
 	/*Owl carousel3*/
-	jQuery('.nav_menu').hide();
+	
 	jQuery('.burger_menu').click(function(){
 				
 
